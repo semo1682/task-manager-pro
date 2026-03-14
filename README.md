@@ -1,26 +1,64 @@
-# Task Manager Pro
+✅ Task Manager Pro
 
-Advanced task manager application built with HTML, CSS, and JavaScript.
+Modern task management application built using HTML, CSS, and JavaScript.
 
-## Features
-- Add tasks
-- Edit tasks with modal
+This application helps users organize their daily tasks, manage priorities, and stay productive with a clean and responsive interface.
+
+---
+
+🌐 Live Demo
+
+https://semo1682.github.io/task-manager-pro/
+
+---
+
+📸 Preview
+
+"Task Manager" (https://raw.githubusercontent.com/semo1682/eslam-portfolio/main/task-manager.jpg)
+
+---
+
+✨ Features
+
+- Add new tasks
+- Edit tasks
 - Delete tasks
 - Mark tasks as completed
-- Search tasks
-- Filter tasks
+- Search tasks instantly
+- Filter tasks (All / Pending / Completed)
 - Priority levels
-- Due dates
-- Overdue status
-- Drag and drop reordering
-- Dark / Light mode
+- Drag & Drop task sorting
 - Clear completed tasks
 - Clear all tasks
-- Save tasks in LocalStorage
-- Responsive modern UI
+- Save tasks using LocalStorage
 
-## Technologies
-- HTML
-- CSS
+---
+
+🛠 Technologies Used
+
+- HTML5
+- CSS3
 - JavaScript
-- LocalStorage
+- LocalStorage API
+
+---
+
+📂 Project Structure
+
+index.html
+styles.css
+script.js
+README.md
+
+---
+
+👨‍💻 Author
+
+Eslam Mesalam
+Front-End Developer
+
+📧 Email
+eslammesalaam@gmail.com
+
+💼 LinkedIn
+https://www.linkedin.com/in/islam-mesalam-47549637a
